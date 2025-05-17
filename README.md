@@ -1,7 +1,7 @@
 # Ghostwriter
 
 [![Language](https://img.shields.io/badge/Language-Autohotkey-red?style=for-the-badge&logo=AutoHotkey)][autohotkey]
-[![GPL License](https://img.shields.io/badge/License-GPL-blue?style=for-the-badge&logo=github)](LICENSE)
+[![GPL License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=github)](LICENSE)
 [![Repo Size](https://img.shields.io/github/languages/code-size/xCrypt0r/Ghostwriter?style=for-the-badge&label=SIZE&logo=github)](/../../)
 
 👻 **Ghostwriter** is a memory-reading hack for Netmarble GGT
